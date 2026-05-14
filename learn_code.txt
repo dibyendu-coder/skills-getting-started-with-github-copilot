@@ -1,0 +1,15 @@
+# Learn branch sample code
+
+This file contains a simple code example for the `learn` branch.
+
+# Python example
+
+def greet(name):
+    return f"Hello, {name}! Welcome to the learn branch."
+
+# JavaScript example
+
+const multiply = (a, b) => a * b;
+
+console.log(greet('GitHub Copilot'));
+console.log('2 x 3 =', multiply(2, 3));
